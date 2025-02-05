@@ -1,0 +1,24 @@
+.btn {
+  background-color: blue;
+  color: whitesmoke;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+}
+
+.btn.warning {
+  background-color: red;
+}
+
+.btn.outline {
+  background-color: transparent;
+  border: 2px solid blue;
+  color: blue;
+}
+
+.btn.outline.warning {
+  background-color: transparent;
+  border: 2px solid red;
+  color: red;
+}

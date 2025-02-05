@@ -2,6 +2,8 @@
 @import url('./App.css');
 @import url('./components/Footer.css');
 @import url('./components/Navbar.css');
+@import url('./components/Link.css');
+@import url('./components/Button.css');
 
 /* The star selector has 0 in specificity and can be used for default styling across the elements */
 * {

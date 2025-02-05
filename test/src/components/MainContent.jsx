@@ -9,7 +9,7 @@ export default function MainContent() {
   return (
     <>
       <h1 className="header">{content}</h1>
-      <Button />
+      <Button text="Click me" variant="outline" />
     </>
   );
 }

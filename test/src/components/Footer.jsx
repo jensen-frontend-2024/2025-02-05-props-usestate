@@ -9,7 +9,7 @@ export function Footer() {
   return (
     <footer className="footer">
       {footerText}
-      <Button />
+      <Button text="Footer Btn" color="warning" variant="outline"/>
     </footer>
   );
 }
